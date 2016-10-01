@@ -7,7 +7,12 @@
 Either grab a build on the [releases page](https://github.com/jmhobbs/terminal-parrot/releases) or clone and run...
 
     go get -u github.com/nsf/termbox-go
-    go build -o parrot parrot.go draw.go data.go
+    make
+
+You can also build a docker image and run it in a container with...
+
+    make docker
+    docker run -it --rm partyparrot (-args)
 
 ### Quitting
 
