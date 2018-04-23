@@ -1,20 +1,18 @@
-                                                        
-                           ...                          
-                      .;oOKXXXKOo,                      
-                      ;OXXXXXXXXXXd                     
-                  .k.  ,XXKc....;O,                     
-                 ;KXx;;xXK' ;ooc. xxxK;                 
-                .KXXXXXXXx 'ooooc 'XXXX;                
-                dXXXXXXXXx 'ooool  KXXXk                
-               .KXXXXXXXXK. loooc .XXXXK                
-               :XXXXXXXXXXo .lol. xXXXXX.               
-               lXXXXXXXXXXXo  , .OXXXXXX.               
-               .KXXXXXXXXXXX0, .0XXXXXXX,               
-              . 'OXXXXXXXXXXXXxKXXXXXXXXo               
-              xO, ,dKXXXXXXXXXXXXXXXXXXXK;              
-             lXXXOl'..,;;kXXXXXXXXXXXXXXXXc             
-           ;OXXXXXXXKOxddOXXXXXXXXXXXXXXXXXo            
-         :0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXk.          
-       ,0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd          
-       :llllllllllllllllllllllllllllllllllllll          
-                                                        
+                           ...
+                      .;oOKXXXKOo,
+                      ;OXXXXXXXXXXd
+                  .k.  ,XXKc....;O,
+                 ;KXx;;xXK' ;ooc. xxxK;
+                .KXXXXXXXx 'ooooc 'XXXX;
+                dXXXXXXXXx 'ooool  KXXXk
+               .KXXXXXXXXK. loooc .XXXXK
+               :XXXXXXXXXXo .lol. xXXXXX.
+               lXXXXXXXXXXXo  , .OXXXXXX.
+               .KXXXXXXXXXXX0, .0XXXXXXX,
+              . 'OXXXXXXXXXXXXxKXXXXXXXXo
+              xO, ,dKXXXXXXXXXXXXXXXXXXXK;
+             lXXXOl'..,;;kXXXXXXXXXXXXXXXXc
+           ;OXXXXXXXKOxddOXXXXXXXXXXXXXXXXXo
+         :0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXk.
+       ,0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXd
+       :llllllllllllllllllllllllllllllllllllll

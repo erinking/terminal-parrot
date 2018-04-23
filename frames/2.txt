@@ -1,20 +1,18 @@
-                                                        
-                                                        
-                 .';;;;;,'.                             
-              ;dk0KKKKK0OO0k:                           
-            ;0K.  xKKo. .. ;O.                          
-           oKKK.  cKl .loo: .,.                         
-          :KKKK0kkKK' :oooo' lKO.                       
-          OKKKKKKKKK, :oooo, :KKO;                      
-         ,KKKKKKKKKKo .oooo. oKKKKO.                    
-         oKKKKKKKKKKK; ,oo' ;KKKKKKx                    
-         xKKKKKKKKKKKKl .. oKKKKKKKo                    
-         :KKKKKKKKKKKKKk' dKKKKKKKKd                    
-          dKKKKKKKKKKKKKKOKKKKKKKKKK,                   
-           :0KKKKKKKKKKKKKKKKKKKKKKKKx,                 
-          .. :x0KKKKKKKKKKKKKKKKKKKKKKK0x:.             
-          kKk:....'xKKKKKKKKKKKKKKKKKKKKKK0c            
-        .xKKKKKKOkk0KKKKKKKKKKKKKKKKKKKKKKKKk.          
-       '0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKo          
-       :llllllllllllllllllllllllllllllllllllll          
-                                                        
+
+                 .';;;;;,'.
+              ;dk0KKKKK0OO0k:
+            ;0K.  xKKo. .. ;O.
+           oKKK.  cKl .loo: .,.
+          :KKKK0kkKK' :oooo' lKO.
+          OKKKKKKKKK, :oooo, :KKO;
+         ,KKKKKKKKKKo .oooo. oKKKKO.
+         oKKKKKKKKKKK; ,oo' ;KKKKKKx
+         xKKKKKKKKKKKKl .. oKKKKKKKo
+         :KKKKKKKKKKKKKk' dKKKKKKKKd
+          dKKKKKKKKKKKKKKOKKKKKKKKKK,
+           :0KKKKKKKKKKKKKKKKKKKKKKKKx,
+          .. :x0KKKKKKKKKKKKKKKKKKKKKKK0x:.
+          kKk:....'xKKKKKKKKKKKKKKKKKKKKKK0c
+        .xKKKKKKOkk0KKKKKKKKKKKKKKKKKKKKKKKKk.
+       '0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKo
+       :llllllllllllllllllllllllllllllllllllll

@@ -1,20 +1,18 @@
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                               ...                      
-                         .;ldxxxxxxxdl;                 
-                       ,oxxxxxxxxxxxxxxd.               
-                     ,dxxc  :xxxl.....:l                
-                   .dxxxxl  .xxc 'ooo;  ..              
-                  cxxxxxxxdoxxx. loooo. dxo             
-                 lxxxxxxxxxxxxx. loooo' lxxl            
-                'xxxxxxxxxxxxxx: ,oooo. dxxx'           
-                'xxxxxxxxxxxxxxx. :ol' :xxxx;           
-              .' cxxxxxxxxxxxxxxx, .. cxxxxo            
-            .lxx; ;xxxxxxxxxxxxxxxo..oxxxxx'            
-          'oxxxxxl. :xxxxxxxxxxxxxxxdxxxxxx'            
-        'oxxxxxxxxxl. .:ldxxxxxxxxxxxxxxxxxl            
-       .:::::::::::::;.     :cccccccccccccc:,           
-                                                        
+
+
+
+
+                               ...
+                         .;ldxxxxxxxdl;
+                       ,oxxxxxxxxxxxxxxd.
+                     ,dxxc  :xxxl.....:l
+                   .dxxxxl  .xxc 'ooo;  ..
+                  cxxxxxxxdoxxx. loooo. dxo
+                 lxxxxxxxxxxxxx. loooo' lxxl
+                'xxxxxxxxxxxxxx: ,oooo. dxxx'
+                'xxxxxxxxxxxxxxx. :ol' :xxxx;
+              .' cxxxxxxxxxxxxxxx, .. cxxxxo
+            .lxx; ;xxxxxxxxxxxxxxxo..oxxxxx'
+          'oxxxxxl. :xxxxxxxxxxxxxxxdxxxxxx'
+        'oxxxxxxxxxl. .:ldxxxxxxxxxxxxxxxxxl
+       .:::::::::::::;.     :cccccccccccccc:,

@@ -1,20 +1,18 @@
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                    .',;;;;;,'.                         
-                 ,lkOOOOOOOOOOOkc                       
-              .:kOOo;;xOOOOOOOOOOo                      
-             cOOOOO.  'OOk:....ck.                      
-           'kOOOOOOo'.lOk. :ll; .dcl:                   
-          ,OOOOOOOOOOOOOc ,oooo; :OOOx.                 
-          dOOOOOOOOOOOOO: ;ooooc 'OOOOd                 
-          oOOOOOOOOOOOOOd .oooo: ;OOOOO.                
-          :OOOOOOOOOOOOOO; ;ooc  xOOOOO;                
-           oOOOOOOOOOOOOOO; .; .dOOOOOk.                
-         '' :OOOOOOOOOOOOOOo. 'kOOOOOd.                 
-        .kOl..ckOOOOOOOOOOOOklOOOOOOo                   
-       .kOOOOl. 'coxkkOOOOOOOOOOOOOOx.                  
-       ,ccccccc:.     :ccccccccccccccc:;,..             
-                                                        
+
+
+
+
+                    .',;;;;;,'.
+                 ,lkOOOOOOOOOOOkc
+              .:kOOo;;xOOOOOOOOOOo
+             cOOOOO.  'OOk:....ck.
+           'kOOOOOOo'.lOk. :ll; .dcl:
+          ,OOOOOOOOOOOOOc ,oooo; :OOOx.
+          dOOOOOOOOOOOOO: ;ooooc 'OOOOd
+          oOOOOOOOOOOOOOd .oooo: ;OOOOO.
+          :OOOOOOOOOOOOOO; ;ooc  xOOOOO;
+           oOOOOOOOOOOOOOO; .; .dOOOOOk.
+         '' :OOOOOOOOOOOOOOo. 'kOOOOOd.
+        .kOl..ckOOOOOOOOOOOOklOOOOOOo
+       .kOOOOl. 'coxkkOOOOOOOOOOOOOOx.
+       ,ccccccc:.     :ccccccccccccccc:;,..

@@ -1,20 +1,18 @@
-                                                        
-                                                        
-                                                        
-                                                        
-                                                        
-                               ..',,,'..                
-                            ':cldxxxxxollc,             
-                         .cdx.  'xxd,  .. '.            
-                       'lxxxx,  'xx; 'ooo:  .           
-                     'oxxxxxxxddxxx. loooo. lc          
-                    lxxxxxxxxxxxxxx. loooo' :x:         
-                   'xxxxxxxxxxxxxxx: 'oooo. oxx;        
-                 . .xxxxxxxxxxxxxxxd. ,ol. :xxxx.       
-                .d. cxxxxxxxxxxxxxxxd; .  cxxxxx'       
-               .oxd. ;dxxxxxxxxxxxxxxxo..oxxxxxd.       
-             .cxxxxx: .:dxxxxxxxxxxxxxxddxxxxxd.        
-           'lxxxxxxxxd:. .;cllxxxxxxxxxxxxxxxx,         
-         ,dxxxxxxxxxxxxxdc;'..oxxxxxxxxxxxxxxo          
-        ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,          
-                                                        
+
+
+
+
+                               ..',,,'..
+                            ':cldxxxxxollc,
+                         .cdx.  'xxd,  .. '.
+                       'lxxxx,  'xx; 'ooo:  .
+                     'oxxxxxxxddxxx. loooo. lc
+                    lxxxxxxxxxxxxxx. loooo' :x:
+                   'xxxxxxxxxxxxxxx: 'oooo. oxx;
+                 . .xxxxxxxxxxxxxxxd. ,ol. :xxxx.
+                .d. cxxxxxxxxxxxxxxxd; .  cxxxxx'
+               .oxd. ;dxxxxxxxxxxxxxxxo..oxxxxxd.
+             .cxxxxx: .:dxxxxxxxxxxxxxxddxxxxxd.
+           'lxxxxxxxxd:. .;cllxxxxxxxxxxxxxxxx,
+         ,dxxxxxxxxxxxxxdc;'..oxxxxxxxxxxxxxxo
+        ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,

@@ -1,20 +1,18 @@
-                                                        
-                                                        
-                                                        
-                                                        
-                                .;clooooll:'.           
-                             'lc..:dddddlccod;          
-                          .:ddd'   odd:  .. .'          
-                         :dddddo;':dd: .oooc  c:        
-                       ,ddddddddddddd. :oooo, ,d.       
-                      cdddddddddddddd' ;oooo; ,dl       
-                     'dddddddddddddddl .oooo. :ddl      
-                     .dddddddddddddddd; .ll. 'dddd;     
-                  .o. cddddddddddddddddc  . :dddddc     
-                 .ldo. :ddddddddddddddddo. cdddddd;     
-                ,ddddd, .cddddddddddddddddoddddddc      
-             .;odddddddl, .':looddddddddddddddddc       
-           .cdddddddddddddl;....lddddddddddddddo        
-         ,odddddddddddddddddddddddddddddddddddd.        
-        ';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'         
-                                                        
+
+
+
+                                .;clooooll:'.
+                             'lc..:dddddlccod;
+                          .:ddd'   odd:  .. .'
+                         :dddddo;':dd: .oooc  c:
+                       ,ddddddddddddd. :oooo, ,d.
+                      cdddddddddddddd' ;oooo; ,dl
+                     'dddddddddddddddl .oooo. :ddl
+                     .dddddddddddddddd; .ll. 'dddd;
+                  .o. cddddddddddddddddc  . :dddddc
+                 .ldo. :ddddddddddddddddo. cdddddd;
+                ,ddddd, .cddddddddddddddddoddddddc
+             .;odddddddl, .':looddddddddddddddddc
+           .cdddddddddddddl;....lddddddddddddddo
+         ,odddddddddddddddddddddddddddddddddddd.
+        ';;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;'
