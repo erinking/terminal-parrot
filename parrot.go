@@ -6,7 +6,7 @@ import "flag"
 
 func main() {
 	loops := flag.Int("loops", 0, "number of times to loop (default: infinite)")
-	delay := flag.Int("delay", 75, "frame delay in ms")
+	delay := flag.Int("delay", 70, "frame delay in ms")
 	orientation := flag.String("orientation", "regular", "regular or aussie")
 	flag.Parse()
 
