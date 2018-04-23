@@ -36,11 +36,12 @@ loop:
 				break loop
 			}
 		default:
-			loop_index++
-			if *loops > 0 && (loop_index/9) >= *loops {
+			if draw(*orientation) {
+				loop_index++
+			}
+			if *loops > 0 && loop_index >= *loops {
 				break loop
 			}
-			draw(*orientation)
 			time.Sleep(time.Duration(*delay) * time.Millisecond)
 		}
 	}

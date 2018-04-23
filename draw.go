@@ -13,7 +13,8 @@ func reverse(lines []string) []string {
 	return newLines
 }
 
-func draw(orientation string) {
+// returns true when a cycle is finished
+func draw(orientation string) bool {
 	termbox.Clear(termbox.ColorDefault, termbox.ColorDefault)
 	lines := strings.Split(frames[frame_index], "\n")
 
@@ -35,5 +36,7 @@ func draw(orientation string) {
 	frame_index++
 	if frame_index == num_frames {
 		frame_index = 0
+		return true
 	}
+	return false
 }
