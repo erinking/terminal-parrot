@@ -10,12 +10,12 @@ var frames = [num_frames]string{
                             .':loxxxxdoc,.
                          .:dc,,dkkkxolldkkl
                         :xkk.  .kk: ... .o'
-                       okkkkl''ck: .oool  ocl:
-                      ;kkkkkkkkkk. :oooo, ;kkk:
-                     .xkkkkkkkkkk, ;oooo, ,kkkk.
-                     dkkkkkkkkkkko .oooo. lkkkk;
-                    :kkkkkkkkkkkkk: .ll. ;kkkkk.
-                    :kkkkkkkkkkkkkko. . lkkkkkl
+                       okkkkl''ck: +eee+  ocl:
+                      ;kkkkkkkkkk. +eeee+ ;kkk:
+                     .xkkkkkkkkkk, +eeee+ ,kkkk.
+                     dkkkkkkkkkkko +eeee+ lkkkk;
+                    :kkkkkkkkkkkkk: +ee+ ;kkkkk.
+                    :kkkkkkkkkkkkkko. + lkkkkkl
                  'd. okkkkkkkkkkkkkkx, okkkkkx
                .ckkx' ,dkkkkkkkkkkkkkkxkkkkkk.
              .:xkkkkko' .;ldxxkkkkkkkkkkkkkk:
@@ -28,12 +28,12 @@ var frames = [num_frames]string{
                       .;oOKXXXKOo,
                       ;OXXXXXXXXXXd
                   .k.  ,XXKc....;O,
-                 ;KXx;;xXK' ;ooc. xxxK;
-                .KXXXXXXXx 'ooooc 'XXXX;
-                dXXXXXXXXx 'ooool  KXXXk
-               .KXXXXXXXXK. loooc .XXXXK
-               :XXXXXXXXXXo .lol. xXXXXX.
-               lXXXXXXXXXXXo  , .OXXXXXX.
+                 ;KXx;;xXK' +eee+ xxxK;
+                .KXXXXXXXx +eeeee 'XXXX;
+                dXXXXXXXXx +eeeee  KXXXk
+               .KXXXXXXXXK. eeeee .XXXXK
+               :XXXXXXXXXXo +eee+ xXXXXX.
+               lXXXXXXXXXXXo  + .OXXXXXX.
                .KXXXXXXXXXXX0, .0XXXXXXX,
               . 'OXXXXXXXXXXXXxKXXXXXXXXo
               xO, ,dKXXXXXXXXXXXXXXXXXXXK;
@@ -47,12 +47,12 @@ var frames = [num_frames]string{
                  .';;;;;,'.
               ;dk0KKKKK0OO0k:
             ;0K.  xKKo. .. ;O.
-           oKKK.  cKl .loo: .,.
-          :KKKK0kkKK' :oooo' lKO.
-          OKKKKKKKKK, :oooo, :KKO;
-         ,KKKKKKKKKKo .oooo. oKKKKO.
-         oKKKKKKKKKKK; ,oo' ;KKKKKKx
-         xKKKKKKKKKKKKl .. oKKKKKKKo
+           oKKK.  cKl +eee+ .,.
+          :KKKK0kkKK' +eeee+ lKO.
+          OKKKKKKKKK, +eeee+ :KKO;
+         ,KKKKKKKKKKo +eeee+ oKKKKO.
+         oKKKKKKKKKKK; +ee+ ;KKKKKKx
+         xKKKKKKKKKKKKl ++ oKKKKKKKo
          :KKKKKKKKKKKKKk' dKKKKKKKKd
           dKKKKKKKKKKKKKKOKKKKKKKKKK,
            :0KKKKKKKKKKKKKKKKKKKKKKKKx,
@@ -67,12 +67,12 @@ var frames = [num_frames]string{
            ,ldxxxxxdl:,.
          c0KXXXXXXXXXXXXO:
        .Od  'KXXO,....:d..l.
-      .0Xd   0X0 .coo:    dk
-      kXXXOxOXXl ;oooo; :XXX0;
-     lXXXXXXXXXl ;oooo: 'XXXXX:
-    .KXXXXXXXXXO .oooo; :XXXXX0
-    'XXXXXXXXXXXc 'oo: .0XXXXXO
-    .XXXXXXXXXXXXl .' ,KXXXXXXo
+      .0Xd   0X0 +eee+    dk
+      kXXXOxOXXl +eeee+ :XXX0;
+     lXXXXXXXXXl +eeee+ 'XXXXX:
+    .KXXXXXXXXXO +eeee+ :XXXXX0
+    'XXXXXXXXXXXc +ee+ .0XXXXXO
+    .XXXXXXXXXXXXl ++ ,KXXXXXXo
      dXXXXXXXXXXXXO' :XXXXXXXXx
      .OXXXXXXXXXXXXXkXXXXXXXXXXo
        oXXXXXXXXXXXXXXXXXXXXXXXX0;
@@ -86,13 +86,13 @@ var frames = [num_frames]string{
            .;cloollc;'.
         .lkkkkkkkkkkkkkx:
       .okdclkkkkdlclxkkxod.
-     ,kkO.  'kd. ... ,k.  o.
-    ckkkk:. ;k. cooo, 'o,;kx;
-   ;kkkkkkkkko .ooooo  xkkkkko
-   xkkkkkkkkkx  ooooo. xkkkkkk.
-   kkkkkkkkkkk, ;ooo: .kkkkkkk.
-   kkkkkkkkkkkk. ;o: .dkkkkkkx
-   lkkkkkkkkkkkk; . 'kkkkkkkkx
+     ,kkO.  'kd. +++ ,k.  o.
+    ckkkk:. ;k. eeee+ 'o,;kx;
+   ;kkkkkkkkko +eeeee  xkkkkko
+   xkkkkkkkkkx  eeeee+ xkkkkkk.
+   kkkkkkkkkkk, +eee+ .kkkkkkk.
+   kkkkkkkkkkkk. +e+ .dkkkkkkx
+   lkkkkkkkkkkkk; + 'kkkkkkkkx
    .xkkkkkkkkkkkko.,kkkkkkkkkkd.
     .lkkkkkkkkkkkkkkkkkkkkkkkkkkc.
     . .lkkkkkkkkkkkkkkkkkkkkkkkkkko;.
@@ -106,12 +106,12 @@ var frames = [num_frames]string{
               .,;::::;,..
            .cxkkkkkkkkkkkd,
          .okl  .xkkkdc:;cxo
-       .lkkkl   dkk; .,,. '.
-      .xkkkkkdlokkl 'oooo. lkd.
-     .kkkkkkkkkkkk, ;oooo: ,kkkx:
-     ,kkkkkkkkkkkkc 'oooo: ,kkkkko
-     .kkkkkkkkkkkkk. looo' lkkkkkx
-      lkkkkkkkkkkkko  :l. :kkkkkkd
+       .lkkkl   dkk; ++++ '.
+      .xkkkkkdlokkl +eeee+ lkd.
+     .kkkkkkkkkkkk, +eeee+ ,kkkx:
+     ,kkkkkkkkkkkkc +eeee+ ,kkkkko
+     .kkkkkkkkkkkkk. eeee+ lkkkkkx
+      lkkkkkkkkkkkko  +e+ :kkkkkkd
       ;kkkkkkkkkkkkkx,   lkkkkkkkl
        okkkkkkkkkkkkkkl.dkkkkkkkkx
       . ckkkkkkkkkkkkkkkkkkkkkkkkkd.
@@ -127,12 +127,12 @@ var frames = [num_frames]string{
                  ,lkOOOOOOOOOOOkc
               .:kOOo;;xOOOOOOOOOOo
              cOOOOO.  'OOk:....ck.
-           'kOOOOOOo'.lOk. :ll; .dcl:
-          ,OOOOOOOOOOOOOc ,oooo; :OOOx.
-          dOOOOOOOOOOOOO: ;ooooc 'OOOOd
-          oOOOOOOOOOOOOOd .oooo: ;OOOOO.
-          :OOOOOOOOOOOOOO; ;ooc  xOOOOO;
-           oOOOOOOOOOOOOOO; .; .dOOOOOk.
+           'kOOOOOOo'.lOk. +ee+ .dcl:
+          ,OOOOOOOOOOOOOc +eeee+ :OOOx.
+          dOOOOOOOOOOOOO: +eeeee 'OOOOd
+          oOOOOOOOOOOOOOd +eeee+ ;OOOOO.
+          :OOOOOOOOOOOOOO; +eee  xOOOOO;
+           oOOOOOOOOOOOOOO; ++ .dOOOOOk.
          '' :OOOOOOOOOOOOOOo. 'kOOOOOd.
         .kOl..ckOOOOOOOOOOOOklOOOOOOo
        .kOOOOl. 'coxkkOOOOOOOOOOOOOOx.
@@ -146,12 +146,12 @@ var frames = [num_frames]string{
                          .;ldxxxxxxxdl;
                        ,oxxxxxxxxxxxxxxd.
                      ,dxxc  :xxxl.....:l
-                   .dxxxxl  .xxc 'ooo;  ..
-                  cxxxxxxxdoxxx. loooo. dxo
-                 lxxxxxxxxxxxxx. loooo' lxxl
-                'xxxxxxxxxxxxxx: ,oooo. dxxx'
-                'xxxxxxxxxxxxxxx. :ol' :xxxx;
-              .' cxxxxxxxxxxxxxxx, .. cxxxxo
+                   .dxxxxl  .xxc +eee+  ..
+                  cxxxxxxxdoxxx. eeeee+ dxo
+                 lxxxxxxxxxxxxx. eeeee+ lxxl
+                'xxxxxxxxxxxxxx: +eeee+ dxxx'
+                'xxxxxxxxxxxxxxx. +ee+ :xxxx;
+              .' cxxxxxxxxxxxxxxx, ++ cxxxxo
             .lxx; ;xxxxxxxxxxxxxxxo..oxxxxx'
           'oxxxxxl. :xxxxxxxxxxxxxxxdxxxxxx'
         'oxxxxxxxxxl. .:ldxxxxxxxxxxxxxxxxxl
@@ -163,13 +163,13 @@ var frames = [num_frames]string{
 
                                ..',,,'..
                             ':cldxxxxxollc,
-                         .cdx.  'xxd,  .. '.
-                       'lxxxx,  'xx; 'ooo:  .
-                     'oxxxxxxxddxxx. loooo. lc
-                    lxxxxxxxxxxxxxx. loooo' :x:
-                   'xxxxxxxxxxxxxxx: 'oooo. oxx;
-                 . .xxxxxxxxxxxxxxxd. ,ol. :xxxx.
-                .d. cxxxxxxxxxxxxxxxd; .  cxxxxx'
+                         .cdx.  'xxd,  ++ '.
+                       'lxxxx,  'xx; +eee+  .
+                     'oxxxxxxxddxxx. eeeee+ lc
+                    lxxxxxxxxxxxxxx. eeeee+ :x:
+                   'xxxxxxxxxxxxxxx: +eeee+ oxx;
+                 . .xxxxxxxxxxxxxxxd. +ee+ :xxxx.
+                .d. cxxxxxxxxxxxxxxxd; +  cxxxxx'
                .oxd. ;dxxxxxxxxxxxxxxxo..oxxxxxd.
              .cxxxxx: .:dxxxxxxxxxxxxxxddxxxxxd.
            'lxxxxxxxxd:. .;cllxxxxxxxxxxxxxxxx,
@@ -181,13 +181,13 @@ var frames = [num_frames]string{
 
                                 .;clooooll:'.
                              'lc..:dddddlccod;
-                          .:ddd'   odd:  .. .'
-                         :dddddo;':dd: .oooc  c:
-                       ,ddddddddddddd. :oooo, ,d.
-                      cdddddddddddddd' ;oooo; ,dl
-                     'dddddddddddddddl .oooo. :ddl
-                     .dddddddddddddddd; .ll. 'dddd;
-                  .o. cddddddddddddddddc  . :dddddc
+                          .:ddd'   odd:  ++ .'
+                         :dddddo;':dd: +eeee  c:
+                       ,ddddddddddddd. +eeee+ ,d.
+                      cdddddddddddddd' +eeee+ ,dl
+                     'dddddddddddddddl +eeee+ :ddl
+                     .dddddddddddddddd; +ee+ 'dddd;
+                  .o. cddddddddddddddddc  + :dddddc
                  .ldo. :ddddddddddddddddo. cdddddd;
                 ,ddddd, .cddddddddddddddddoddddddc
              .;odddddddl, .':looddddddddddddddddc
@@ -209,3 +209,5 @@ var colors = [num_frames]termbox.Attribute{
 	termbox.Attribute(206),   // magenta
 	termbox.Attribute(204),   // red
 }
+
+var beak_color = termbox.Attribute(101)   // brown

@@ -23,7 +23,11 @@ func draw(orientation string) {
 
 	for x, line := range lines {
 		for y, cell := range line {
-			termbox.SetCell(y, x, cell, colors[frame_index], termbox.ColorDefault)
+			color := colors[frame_index]
+			if cell == 'e' || cell == '+' {
+				color = beak_color
+			}
+			termbox.SetCell(y, x, cell, color, termbox.ColorDefault)
 		}
 	}
 
